@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Duerr Imports blog</title>
+  <link>https://www.duerrimports.com/blog/</link>
+  <description>News and notes from Duerr Imports and the companies in the group.</description>
+  <item>
+    <title>A new home for the group</title>
+    <link>https://www.duerrimports.com/blog/a-new-home-for-the-group/</link>
+    <guid>https://www.duerrimports.com/blog/a-new-home-for-the-group/</guid>
+    <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
+    <description>Duerr Imports has a new website. Here is what the group does today and where each company fits.</description>
+  </item>
+  <item>
+    <title>Introducing HostFlow</title>
+    <link>https://www.duerrimports.com/blog/introducing-hostflow/</link>
+    <guid>https://www.duerrimports.com/blog/introducing-hostflow/</guid>
+    <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+    <description>Proplexa and Medellín Concierge have built HostFlow, one place to run short-term rental properties.</description>
+  </item>
+  <item>
+    <title>Wholesale or white label: which one do you need?</title>
+    <link>https://www.duerrimports.com/blog/wholesale-or-white-label/</link>
+    <guid>https://www.duerrimports.com/blog/wholesale-or-white-label/</guid>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+    <description>Two ways to work with Duerr Imports, and how to choose between them.</description>
+  </item>
+</channel>
+</rss>
