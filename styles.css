@@ -148,9 +148,8 @@ address{margin-top:32px;font-style:normal;font-size:clamp(20px,1.6vw,26px);line-
 address a{text-decoration:underline;text-underline-offset:5px;text-decoration-thickness:2px}
 
 /* Footer */
-.foot{padding-top:0;padding-bottom:40px}
-.foot-name{font-weight:800;letter-spacing:-.06em;line-height:.8;font-size:clamp(96px,30vw,520px);color:var(--gold);margin-left:-.04em}
-.foot-row{margin-top:40px;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px 48px;font-size:15px}
+.foot{padding-block:40px}
+.foot-row{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr);gap:24px 48px;font-size:15px}
 .credits{opacity:.85}
 
 
