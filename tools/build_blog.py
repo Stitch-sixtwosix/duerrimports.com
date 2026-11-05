@@ -117,7 +117,10 @@ def shell(title, desc, path, body, extra_head=""):
 <meta property="og:url" content="{SITE}{path}">
 <meta property="og:image" content="{SITE}/assets/img/logo-large.jpg">
 <meta name="theme-color" content="#111111">
-<link rel="icon" href="/assets/img/favicon.png" type="image/png">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/assets/img/favicon-48.png" type="image/png" sizes="48x48">
+<link rel="icon" href="/assets/img/favicon.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
 <link rel="alternate" type="application/rss+xml" title="Duerr Imports blog" href="/blog/feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
