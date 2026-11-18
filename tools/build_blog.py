@@ -139,7 +139,6 @@ def shell(title, desc, path, body, extra_head=""):
   <nav aria-label="Main">
     <a href="/#technology">Technology</a>
     <a href="/#real-estate">Real estate</a>
-    <a href="/#health">Health</a>
     <a href="/#imports">Imports</a>
     <a href="/blog/"{' aria-current="page"' if path == '/blog/' else ''}>Blog</a>
   </nav>

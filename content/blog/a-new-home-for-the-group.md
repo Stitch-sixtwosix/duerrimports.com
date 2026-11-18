@@ -13,15 +13,12 @@ Duerr Imports started as an import house. Today it is a US holding group with si
 - **Proplexa** builds property management software for owners and managers. [proplexa.ai](https://proplexa.ai/)
 - **HostFlow** is short-term rental management from Proplexa and Medellín Concierge. [hostflow.in](https://hostflow.in/)
 - **EminentTracker** gives eminent domain attorneys the parcels in the path of planned public projects, and who owns them, years before the notice. [eminenttracker.com](https://eminenttracker.com/)
+- **LeadGenAI** builds B2B lead systems for niche markets: a market map, a buying-signal engine, outreach and reporting. [leadgenai.io](https://leadgenai.io/)
 
 ## Real estate
 
 - **FastFlip Realty** helps owners sell a property quickly and simply. [fastflip.co](https://fastflip.co/)
 - **Medellín Concierge** handles rentals, real estate and property management in Medellín. [medellinconcierge.net](https://www.medellinconcierge.net/)
-
-## Health
-
-- **Suero Rapido** offers IV therapy to rehydrate and recover. [suerorapido.com](https://suerorapido.com/)
 
 ## Imports
 

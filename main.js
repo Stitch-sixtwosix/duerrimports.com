@@ -40,7 +40,7 @@
     medellin: { field: 'bay', name: 'Medellín Concierge', line: 'Rentals, real estate and property management in Medellín.', url: 'https://www.medellinconcierge.net/', label: 'Visit medellinconcierge.net',  },
     hostflow: { field: 'lime', name: 'HostFlow', line: 'Short-term rental management: revenue automation, owner portals, cleaner scheduling and compliance.', url: 'https://hostflow.in/', label: 'Visit hostflow.in',  },
     eminent: { field: 'lime', name: 'EminentTracker', line: 'Eminent domain leads for attorneys: the parcels in the path of planned public projects, and who owns them, years before the notice.', url: 'https://eminenttracker.com/', label: 'Visit eminenttracker.com',  },
-    suero: { field: 'aqua', name: 'Suero Rapido', line: 'IV therapy to rehydrate and recover.', url: 'https://suerorapido.com/', label: 'Visit suerorapido.com',  },
+    leadgenai: { field: 'lime', name: 'LeadGenAI', line: 'B2B lead systems for niche markets: a market map, buying signals, outreach and reporting.', url: 'https://leadgenai.io/', label: 'Visit leadgenai.io',  },
     imports: { field: 'roast', name: 'Duerr Imports', line: 'Wholesale and white-label importing for cafés, offices and resellers.', url: '#imports', label: 'See imports',  }
   };
   const answer = document.getElementById('answer');
