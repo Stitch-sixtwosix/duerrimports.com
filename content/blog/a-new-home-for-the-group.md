@@ -8,13 +8,16 @@ author: Duerr Imports
 
 Duerr Imports started as an import house. Today it is a US holding group with six operating businesses alongside the import side, and this site is now where all of them meet.
 
-## Real estate
+## Technology
 
 - **Proplexa** builds property management software for owners and managers. [proplexa.ai](https://proplexa.ai/)
 - **HostFlow** is short-term rental management from Proplexa and Medellín Concierge. [hostflow.in](https://hostflow.in/)
+- **EminentTracker** gives eminent domain attorneys the parcels in the path of planned public projects, and who owns them, years before the notice. [eminenttracker.com](https://eminenttracker.com/)
+
+## Real estate
+
 - **FastFlip Realty** helps owners sell a property quickly and simply. [fastflip.co](https://fastflip.co/)
 - **Medellín Concierge** handles rentals, real estate and property management in Medellín. [medellinconcierge.net](https://www.medellinconcierge.net/)
-- **EminentTracker** gives eminent domain attorneys the parcels in the path of planned public projects, and who owns them, years before the notice. [eminenttracker.com](https://eminenttracker.com/)
 
 ## Health
 
