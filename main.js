@@ -39,6 +39,7 @@
     fastflip: { field: 'bay', name: 'FastFlip Realty', line: 'Sell your property quickly and simply.', url: 'https://fastflip.co/', label: 'Visit fastflip.co',  },
     medellin: { field: 'bay', name: 'Medellín Concierge', line: 'Rentals, real estate and property management in Medellín.', url: 'https://www.medellinconcierge.net/', label: 'Visit medellinconcierge.net',  },
     hostflow: { field: 'bay', name: 'HostFlow', line: 'Short-term rental management: revenue automation, owner portals, cleaner scheduling and compliance.', url: 'https://hostflow.in/', label: 'Visit hostflow.in',  },
+    eminent: { field: 'bay', name: 'EminentTracker', line: 'Eminent domain leads for attorneys: the parcels in the path of planned public projects, and who owns them, years before the notice.', url: 'https://eminenttracker.com/', label: 'Visit eminenttracker.com',  },
     suero: { field: 'aqua', name: 'Suero Rapido', line: 'IV therapy to rehydrate and recover.', url: 'https://suerorapido.com/', label: 'Visit suerorapido.com',  },
     imports: { field: 'roast', name: 'Duerr Imports', line: 'Wholesale and white-label importing for cafés, offices and resellers.', url: '#imports', label: 'See imports',  }
   };

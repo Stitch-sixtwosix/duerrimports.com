@@ -109,6 +109,8 @@ figcaption{margin-top:10px;font-size:15px;opacity:.85}
 .co h3{font-size:clamp(32px,3vw,52px)}
 .companies .co{padding-top:28px;box-shadow:inset 0 6px 0 currentColor}
 .co p{margin:16px 0 18px;max-width:40ch}
+.companies .co-wide{grid-column:1/-1}
+.co-wide p{max-width:62ch}
 
 /* Capital */
 .split{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:48px clamp(32px,5vw,96px);align-items:start}
